@@ -1,0 +1,7 @@
+id=blurdock-system
+name=BlurDock System App
+version=0.1.0-alpha
+versionCode=1
+author=Mohamed Zaitoon
+description=Install BlurDock as a system app on Xiaomi HyperOS devices
+updateJson=https://raw.githubusercontent.com/mohamed-zaitoon/BluerDock/main/update.json
