@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="com.jungleapps.wallpapers">
+
+        <!-- Network / System -->
+        <permission name="android.permission.ACCESS_NETWORK_STATE"/>
+        <permission name="android.permission.ACCESS_WIFI_STATE"/>
+        <permission name="android.permission.INTERNET"/>
+
+        <!-- Power -->
+        <permission name="android.permission.WAKE_LOCK"/>
+
+        <!-- Boot -->
+        <permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+
+        <!-- Wallpaper (مهم للتطبيق) -->
+        <permission name="android.permission.SET_WALLPAPER"/>
+
+        <!-- Foreground services -->
+        <permission name="android.permission.FOREGROUND_SERVICE"/>
+
+        <!-- Tasks -->
+        <permission name="android.permission.REORDER_TASKS"/>
+
+    </privapp-permissions>
+</permissions>
